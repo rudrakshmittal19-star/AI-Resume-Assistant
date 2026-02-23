@@ -1,0 +1,6 @@
+nltk==3.7
+spacy==3.4.0
+PyPDF2==2.10.0
+
+# Added for TF-IDF keyword extraction
+scikit-learn==1.2.2
